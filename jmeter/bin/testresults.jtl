@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1636402770448,844,HTTP Request,200,OK,Thread Group 1-1,text,true,,899,245,1,1,https://reqres.in/api/register,837,0,384
+1636402782322,567,HTTP Request,200,OK,Thread Group 1-2,text,true,,893,245,1,1,https://reqres.in/api/register,567,0,95
+1636402794317,554,HTTP Request,200,OK,Thread Group 1-3,text,true,,901,245,1,1,https://reqres.in/api/register,554,0,92
+1636402806322,489,HTTP Request,200,OK,Thread Group 1-4,text,true,,891,245,1,1,https://reqres.in/api/register,489,0,88
+1636402818315,489,HTTP Request,200,OK,Thread Group 1-5,text,true,,893,245,1,1,https://reqres.in/api/register,489,0,84
+1636402830321,594,HTTP Request,200,OK,Thread Group 1-6,text,true,,895,245,1,1,https://reqres.in/api/register,594,0,91
+1636402842316,580,HTTP Request,200,OK,Thread Group 1-7,text,true,,889,245,1,1,https://reqres.in/api/register,580,0,83
+1636402854321,555,HTTP Request,200,OK,Thread Group 1-8,text,true,,895,245,1,1,https://reqres.in/api/register,555,0,83
+1636402866322,636,HTTP Request,200,OK,Thread Group 1-9,text,true,,889,245,1,1,https://reqres.in/api/register,636,0,94
+1636402878318,553,HTTP Request,200,OK,Thread Group 1-10,text,true,,891,245,1,1,https://reqres.in/api/register,553,0,97
